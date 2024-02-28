@@ -1,7 +1,8 @@
 
 **Output**
+
 Intercept: -3662760.716731824
-                     Coefficient
+                    Coefficient
 longitude          -43744.839786
 latitude           -43638.568221
 housing_median_age   1164.087506
@@ -15,7 +16,6 @@ Mean Squared Error: 5106013432.131462
 MAE: 51689.81623391512
 MSE: 5106013432.131462
 RMSE: 71456.37432819736
-
 **Description**
 * These values represent the change in the predicted value of the dependent variable for a one-unit increase in the corresponding independent variable, holding all other independent variables constant.
 1. Negative coefficients: longitude, latitude, total_rooms, population
