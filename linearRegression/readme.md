@@ -26,3 +26,8 @@ These indicate that an increase in these variables leads to an increase in the p
 
 
 ![linearRegression](https://github.com/angelahuang3/MachineLearningProjects/assets/123219721/bc42e348-fa86-4387-8b7d-042d164bae09)
+
+This data can be used for various purposes, such as:
+1. Predicting median house prices: This is a common regression task where the model learns the relationship between the features and the median_house_value and uses it to predict the price of new houses.
+2. Understanding factors affecting housing prices: By analyzing the coefficients of a fitted model, we can gain insights into which features are most important in influencing housing prices and how they affect the prices.
+3. Developing decision support systems: Machine learning models trained on this data can be used to help real estate agents, investors, and policymakers make informed decisions about housing.
