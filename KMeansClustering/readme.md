@@ -9,5 +9,5 @@ Objectives:
 3. The goal is to minimize the within-cluster variance, meaning data points within a cluster should be as close to each other as possible.
 
 \*\* Until clusters stop changing, repeat the following:
-4. For each cluster, compute the cluster centroid by taking the mean vector of points in the cluster
-5. Assign each data point to the cluster for which the centroid is the closest
+  4. For each cluster, compute the cluster centroid by taking the mean vector of points in the cluster
+  5. Assign each data point to the cluster for which the centroid is the closest
